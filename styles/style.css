@@ -1,0 +1,75 @@
+header{
+    background: linear-gradient(180deg, #070211, rgba( 07, 2, 17, 0)100%); 
+
+ width: 1320px;
+ height: 600px;
+ margin-top: 0px;
+ margin-left: 100px;
+ margin-right: 100px;
+
+}
+.banner{ 
+  background-image: url('/resources/Banner\ Image.png');
+  background-position: center;
+
+  background-size: 100%;
+  width: 1320px;
+  height: 600px;
+  margin: 50px;
+ margin-left: 00px;
+ margin-right: 100px;
+
+
+}
+.big-title{
+  text-align:center;
+  font-size: 72px;
+  font-family:'Times New Roman', Times, serif;
+  font-weight: 900;
+  line-height: 100px;
+  word-wrap: break-word;
+  margin-top: 200px; 
+    color: rgb(129, 243, 7);
+  
+
+}
+.title{
+  color: white;
+  font-size: 32px;
+  font-weight: 400;
+  word-wrap: break-word;
+  text-align:center;
+  margin-top: 00px;
+}
+.main-content{
+  text-align: center;
+}
+.content{
+  color: #ff0000;
+  font-size: 88px;
+  font-family: inter;
+  font-weight: 700px;
+}
+.small-content{
+  color: #ff0000;
+  font-size: 24px;
+  font-weight: 500px;
+}
+.first-content{
+  color: #070211;
+  font-size: 48px;
+  font-weight: 700px;
+}
+.small-content .first-content{
+  line-height: 10px;
+}
+.secend-image {
+  width: 802.9px;
+  height: 500px;
+  margin-top: 500px;
+  margin-left: 399px;
+}
+.vector{
+  background-image: url('/resources/Vectorrr.png');
+
+}
